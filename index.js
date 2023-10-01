@@ -25,89 +25,89 @@ let track_list = [
     name: "Heeriye",
     artist: "Song by Arijit Singh, Dulquer Salmaan, and Jasleen Royal",
     image: "https://149354933.v2.pressablecdn.com/wp-content/uploads/2023/07/ed67f181-4c81-4041-8856-849174501798.jpeg",
-    path: "/music/_Heeriye_192(PagalWorld.com.se).mp3"
+    path: "_Heeriye_192(PagalWorld.com.se).mp3"
   },
   {
     name: "Sanam Re",
     artist: "Song by Arijit Singh",
     image: "https://c.saavncdn.com/829/Sanam-Re-Hindi-2015-500x500.jpg",
-    path: "/music/Sanam Re_192(PagalWorld.com.se).mp3"
+    path: "Sanam Re_192(PagalWorld.com.se).mp3"
   },
   
 {
     name: "Tere Hawaale",
     artist: "Song by Arijit Singh, Shilpa Rao",
     image: "https://c.saavncdn.com/119/Tere-Hawaale-From-Laal-Singh-Chaddha-Hindi-2022-20220804093945-500x500.jpg",
-    path: "/music/Tere Hawaale(PagalWorld.com.se).mp3",
+    path: "Tere Hawaale(PagalWorld.com.se).mp3",
   },
   {
     name: "Mein Ishq Tera Ban Jaau",
     artist: "Song by Gaurav Mali",
     image: "https://i.ytimg.com/vi/1Q3PWjj8KhE/maxresdefault.jpg",
-    path: "/music/Mein Ishq Tera Ban Jaau_192(PagalWorld.com.se).mp3",
+    path: "Mein Ishq Tera Ban Jaau_192(PagalWorld.com.se).mp3",
   },
   {
     name: "Mahiye Jinna Sohna",
    artist: "Song by Darshan Raval",
      image: "https://c.saavncdn.com/122/Mahiye-Jinna-Sohna-Hindi-2023-20230801104702-500x500.jpg",
-     path: "/music/Mahiye Jinna Sohna_192(PagalWorld.com.se).mp3",
+     path: "Mahiye Jinna Sohna_192(PagalWorld.com.se).mp3",
    },
   {
     name: "Rasiya",
     artist: "Song by Pritam Chakraborty, Shreya Ghoshal",
     image: "https://c.saavncdn.com/897/Rasiya-From-Brahmastra-Hindi-2022-20220924115713-500x500.jpg",
-    path: "/music/Rasiya_192(PagalWorld.com.se).mp3",
+    path: "Rasiya_192(PagalWorld.com.se).mp3",
   },
   {
     name: "Chaleya",
     artist: "Song by Arijit Singh and Shilpa Rao",
     image: "https://pagalnew.com/coverimages/chaleya-jawan-500-500.jpg",
-    path: "/music/Chaleya_192(PagalWorld.com.se).mp3",
+    path: "Chaleya_192(PagalWorld.com.se).mp3",
   },
   {
     name: "Afreen Afreen",
     artist: "Song by Momina Mustehsan and Rahat Fateh Ali Khan",
     image: "https://raag.fm/image/250/2899361/Afreen-Afreen---Remembering-Ustad-Nusrat-Fateh-Ali-Khan-Nusrat-Fateh-Ali-Khan.jpg",
-    path: "/music/Afreen Afreen(PagalWorld.com.se).mp3",
+    path: "Afreen Afreen(PagalWorld.com.se).mp3",
   },
   {
     name: "Naah Lofi",
     artist: "Song by Jass Manak",
     image: "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/70/be/f3/70bef38a-5234-1d28-b14e-90576356d4f2/cover.jpg/1200x1200bf-60.jpg",
-    path: "/music/Naah Lofi_320(PagalWorld.com.se).mp3",
+    path: "Naah Lofi_320(PagalWorld.com.se).mp3",
   },
   {
     name: "Nain Ta Heere",
     artist: "Song by Asees Kaur and Guru Randhawa",
     image: "https://c.saavncdn.com/148/Nain-Ta-Heere-From-Jugjugg-Jeeyo-Hindi-2022-20220616121005-500x500.jpg",
-    path: "/music/Nain Ta Heere - Lisa_192(PagalWorld.com.se).mp3",
+    path: "Nain Ta Heere - Lisa_192(PagalWorld.com.se).mp3",
   },
 
   {
     name: "Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein",
     artist: "Song by Sahil Ahuja",
     image: "https://i.scdn.co/image/ab67616d0000b27333a111350da4d4b9458545af",
-    path: "/music/Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup)_192(PagalWorld.com.se).mp3",
+    path: "Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup)_192(PagalWorld.com.se).mp3",
   },
 
   {
       name: "Pakki Wali Dosti",
      artist: "Song by Amjad Nadeem Aamir and Saaj Bhatt",
        image: "https://pagalfree.com/images/128Pakki%20Wali%20Dosti%20-%20Saaj%20Bhatt%20128%20Kbps.jpg",
-       path: "/music/Pakki Wali Dosti_192(PagalWorld.com.se).mp3",
+       path: "Pakki Wali Dosti_192(PagalWorld.com.se).mp3",
    },
    {
     name: "Maan Meri Jaan",
    artist: "Song by King",
      image: "https://images.genius.com/1e9a6b7ea9de88bea41f8ed7c56ffdd2.1000x1000x1.jpg",
-     path: "/music/Maan Meri Jaan_192(PagalWorld.com.se).mp3",
+     path: "Maan Meri Jaan_192(PagalWorld.com.se).mp3",
  },
  
    {
     name: "Headlights",
    artist: "Song by Alan Walker and Alok",
      image: "https://i.scdn.co/image/ab67616d0000b27347bb1d9a3e8aae47ef21a972",
-     path: "/music/Headlights_320(PagalWorld.com.se).mp3",
+     path: "Headlights_320(PagalWorld.com.se).mp3",
    },
 
 
